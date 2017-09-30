@@ -1,0 +1,29 @@
+[19-Sep-2016 16:02:36 America/Chicago] PHP Fatal error:  Class 'HMAC' not found in /home/drewjexc/public_html/cs465/MAC-ATTACK/index.php on line 12
+[19-Sep-2016 17:15:38 America/Chicago] PHP Parse error:  syntax error, unexpected '(' in /home/drewjexc/public_html/cs465/MAC-ATTACK/index.php on line 12
+[19-Sep-2016 17:16:02 America/Chicago] PHP Fatal error:  Class 'SHA1' not found in /home/drewjexc/public_html/cs465/MAC-ATTACK/index.php on line 12
+[19-Sep-2016 17:46:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/drewjexc/public_html/cs465/MAC-ATTACK/HMAC.php on line 11
+[19-Sep-2016 17:46:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/drewjexc/public_html/cs465/MAC-ATTACK/HMAC.php on line 11
+[19-Sep-2016 17:58:32 America/Chicago] PHP Fatal error:  Call to undefined method HMAC::generateHash() in /home/drewjexc/public_html/cs465/MAC-ATTACK/index.php on line 17
+[19-Sep-2016 18:04:16 America/Chicago] PHP Fatal error:  Call to a member function hash_sha1() on a non-object in /home/drewjexc/public_html/cs465/MAC-ATTACK/HMAC.php on line 15
+[20-Sep-2016 18:29:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'x80x00x00x00x00x00x00x00x00x00' (T_STRING) in /home/drewjexc/public_html/cs465/MAC-ATTACK/index.php on line 34
+[20-Sep-2016 20:37:16 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 52
+[20-Sep-2016 20:37:26 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 52
+[20-Sep-2016 20:37:42 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 52
+[20-Sep-2016 20:38:06 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 52
+[20-Sep-2016 20:38:14 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 52
+[20-Sep-2016 20:39:03 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 52
+[20-Sep-2016 20:39:41 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 52
+[20-Sep-2016 20:39:53 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 52
+[20-Sep-2016 20:40:19 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 52
+[20-Sep-2016 20:40:37 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 53
+[20-Sep-2016 20:41:11 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 53
+[20-Sep-2016 20:50:33 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 53
+[20-Sep-2016 20:51:11 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 53
+[20-Sep-2016 20:51:35 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 53
+[20-Sep-2016 20:51:45 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 53
+[20-Sep-2016 20:52:19 America/Chicago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133693393 bytes) in /home/drewjexc/public_html/cs465/MAC-ATTACK/SHA-1.php on line 53
+[20-Sep-2016 21:27:32 America/Chicago] PHP Fatal error:  Call to a member function preProcessKeyLength() on a non-object in /home/drewjexc/public_html/cs465/MAC-ATTACK/index.php on line 19
+[20-Sep-2016 21:27:35 America/Chicago] PHP Fatal error:  Call to a member function preProcessKeyLength() on a non-object in /home/drewjexc/public_html/cs465/MAC-ATTACK/index.php on line 19
+[20-Sep-2016 21:48:20 America/Chicago] PHP Parse error:  syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/drewjexc/public_html/cs465/MAC-ATTACK/HMAC.php on line 35
+[20-Sep-2016 21:48:23 America/Chicago] PHP Parse error:  syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/drewjexc/public_html/cs465/MAC-ATTACK/HMAC.php on line 35
+[20-Sep-2016 21:53:21 America/Chicago] PHP Fatal error:  Class 'SHA1' not found in /home/drewjexc/public_html/cs465/MAC-ATTACK/index.php on line 9

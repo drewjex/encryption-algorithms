@@ -1,0 +1,1 @@
+[28-Sep-2016 16:58:21 America/Chicago] PHP Fatal error:  Call to undefined function gmp_random() in /home/drewjexc/public_html/cs465/DH/index.php on line 3
